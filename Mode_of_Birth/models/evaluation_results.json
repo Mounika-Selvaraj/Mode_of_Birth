@@ -1,0 +1,38 @@
+{
+    "KNN": {
+        "accuracy": 0.9941666666666666,
+        "precision": 0.9942292758089367,
+        "recall": 0.9941666666666666,
+        "f1": 0.9937621964325968
+    },
+    "LinearSVC": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "GaussianNB": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "RandomForest": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "XGBoost": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "Ensemble": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    }
+}
